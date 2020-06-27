@@ -3,6 +3,7 @@
 ##### TODO
 
 - [ ] Mindmap (Design style, Components)
+- [ ] Project Folder Strucutre (Designs, Docs, Theme)
 - [ ] Design? Figma/Sketch/Adobe XD?
 
 #### Mindmap
